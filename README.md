@@ -24,7 +24,6 @@ This project applies machine learning to predict passenger survival on the Titan
 
 ---
 ## ✅ Results
-- Achieved [insert score] accuracy on Kaggle public leaderboard.
 - Demonstrated understanding of end-to-end ML workflow.
 
 ---
