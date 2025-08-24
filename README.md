@@ -29,6 +29,6 @@ This project applies machine learning to predict passenger survival on the Titan
 
 ---
 ## 🔗 Project Link
-*[Add your Kaggle or GitHub link here]*
+[GitHub link here](https://github.com/Llinvile/Titanic-Machine-Learning-from-Disaster/blob/main/Titanic-Survival-Prediction.ipynb)
 
 ---
